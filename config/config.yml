@@ -1,0 +1,14 @@
+TEST_CONFIG:
+  destination_bucket: output/
+  main_url: http://books.toscrape.com/index.html
+  new_page: http://books.toscrape.com/catalogue/page-1.html
+  book_file: books.csv
+  category_file: category.csv
+  database_file: pythonsqlite.db
+PROD_CONFIG:
+  destination_bucket: s3://<bucket-name>
+  book_file: books.csv
+  category_file: category.csv
+  incremental_prefix: shopup/
+  main_url: http://books.toscrape.com/index.html
+  new_page: http://books.toscrape.com/catalogue/page-1.html
