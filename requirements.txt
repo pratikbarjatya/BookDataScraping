@@ -164,7 +164,7 @@ natsort==7.0.1
 nbconvert==5.3.1
 nbformat==4.4.0
 networkx==2.4
-nltk==3.5
+nltk==3.6.6
 notebook==6.4.1
 numba==0.49.0
 numexpr==2.7.1
