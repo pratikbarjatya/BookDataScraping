@@ -123,7 +123,7 @@ itsdangerous==1.1.0
 jedi==0.12.1
 Jinja2==2.11.3
 jmespath==0.9.4
-joblib==0.14.1
+joblib==1.2.0
 json-merge-patch==0.2
 jsonschema==3.2.0
 jupyter==1.0.0
