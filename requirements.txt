@@ -159,7 +159,7 @@ more-itertools==8.2.0
 multidict==4.5.2
 multiprocess==0.70.9
 murmurhash==1.0.2
-mxnet==1.6.0
+mxnet==1.9.1
 natsort==7.0.1
 nbconvert==5.3.1
 nbformat==4.4.0
