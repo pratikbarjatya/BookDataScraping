@@ -28,7 +28,7 @@ cachetools==4.1.0
 catalogue==1.0.0
 catboost==0.20.2
 cattrs==0.9.2
-certifi==2018.8.24
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 chart-studio==1.1.0
