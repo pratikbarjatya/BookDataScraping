@@ -161,7 +161,7 @@ multiprocess==0.70.9
 murmurhash==1.0.2
 mxnet==1.9.1
 natsort==7.0.1
-nbconvert==5.3.1
+nbconvert==6.5.1
 nbformat==4.4.0
 networkx==2.4
 nltk==3.6.6
