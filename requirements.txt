@@ -71,7 +71,7 @@ fancyimpute==0.5.4
 fb-idb==0.0.7
 filelock==3.0.12
 findspark==1.3.0
-Flask==1.1.1
+Flask==2.2.5
 Flask-Admin==1.5.4
 Flask-AppBuilder==3.4.5
 Flask-Babel==1.0.0
