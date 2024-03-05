@@ -50,7 +50,7 @@ cycler==0.10.0
 cymem==2.0.3
 cypari==2.4.0
 dash==2.15.0
-dash-core-components==1.2.1
+dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-renderer==1.1.0
 dash-table==4.3.0
