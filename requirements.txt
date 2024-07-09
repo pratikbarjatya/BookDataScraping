@@ -310,6 +310,6 @@ wrapt==1.12.1
 WTForms==2.2.1
 xgboost==0.90
 yellowbrick==1.0.1
-zipp==3.1.0
+zipp==3.19.1
 zope.deprecation==4.4.0
 zope.interface==5.1.0
