@@ -208,7 +208,7 @@ PyJWT==2.4.0
 pyLDAvis==2.1.2
 pylint==2.5.0
 pymaybe==0.1.6
-PyMySQL==0.9.3
+PyMySQL==1.1.1
 pyod==0.7.8.2
 pyparsing==2.4.7
 pypng==0.0.20
