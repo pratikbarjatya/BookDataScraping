@@ -297,7 +297,7 @@ umap-learn==0.4.2
 unicodecsv==0.14.1
 urllib3==1.26.19
 versioneer==0.18
-virtualenv==20.0.18
+virtualenv==20.26.6
 virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
 wasabi==0.6.0
