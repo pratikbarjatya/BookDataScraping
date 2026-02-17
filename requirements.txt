@@ -43,7 +43,7 @@ confuse==1.1.0
 constantly==15.1.0
 cos-utils==0.0.13
 croniter==0.3.32
-cryptography==44.0.1
+cryptography==46.0.5
 cufflinks==0.17.0
 cvxpy==1.0.31
 cycler==0.10.0
@@ -69,7 +69,7 @@ email-validator==1.1.1
 entrypoints==0.2.3
 fancyimpute==0.5.4
 fb-idb==0.0.7
-filelock==3.0.12
+filelock==3.20.3
 findspark==1.3.0
 Flask==2.2.5
 Flask-Admin==1.5.4
@@ -130,7 +130,7 @@ jupyter==1.0.0
 jupyter-client==5.2.3
 jupyter-console==5.2.0
 jupyter-core==4.11.2
-Keras==3.12.0
+Keras==3.13.2
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
 kiwisolver==1.2.0
@@ -161,7 +161,7 @@ multiprocess==0.70.9
 murmurhash==1.0.2
 mxnet==1.9.1
 natsort==7.0.1
-nbconvert==6.5.1
+nbconvert==7.17.0
 nbformat==4.4.0
 networkx==2.4
 nltk==3.9
@@ -184,7 +184,7 @@ pendulum==1.4.4
 pexpect==4.8.0
 phik==0.9.11
 pickleshare==0.7.5
-Pillow==10.3.0
+Pillow==12.1.1
 plac==1.1.3
 plink==2.3
 plotly==4.4.1
@@ -295,15 +295,15 @@ typing-extensions==3.7.4.2
 tzlocal==1.5.1
 umap-learn==0.4.2
 unicodecsv==0.14.1
-urllib3==2.5.0
+urllib3==2.6.3
 versioneer==0.18
-virtualenv==20.26.6
+virtualenv==20.36.1
 virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
 wasabi==0.6.0
 wcwidth==0.1.9
 webencodings==0.5.1
-Werkzeug==3.0.6
+Werkzeug==3.1.5
 widgetsnbextension==3.4.2
 wordcloud==1.6.0
 wrapt==1.12.1
